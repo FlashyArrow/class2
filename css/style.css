@@ -1,0 +1,15 @@
+.subtitle {
+		text-align:center;
+}
+li {
+	display: block;
+}
+ul li {
+	display: inline;
+}
+.tab li {
+	display:none;
+}
+#charles li {
+	display :inline;
+}
